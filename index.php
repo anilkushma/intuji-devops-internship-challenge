@@ -4,5 +4,5 @@ require_once __DIR__ . '/vendor/autoload.php';
 use Silarhi\Hello;
 
 $hello = new Hello();
-echo $hello->display() . "\nHELLO HELLO HELLOooooooooooooooooooooooooooooooooooooooooo9900000090oo";
+echo $hello->display() . "\nHELLO HELLO HELLOooooooooooooooooooooooooooooooooooooooooo99000009798kmhfskf,fn,mnlkfnsmdfdls090oo";
 ?>
